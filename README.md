@@ -5,6 +5,8 @@
 # layer2 - 84 units, relu
 # layer3 - 10 units, softmax
 # Data set:  MNIST
+https://www.kaggle.com/competitions/digit-recognizer/data
+
 
 # digit_recognizer_cnn
 # This is a CNN deep learning model to recognize handwritten digits.
